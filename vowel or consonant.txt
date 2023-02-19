@@ -1,0 +1,22 @@
+Begin 
+
+step 1:take a chracter ch='Z'
+step 2:switch (ch)
+step 3:case 'a'
+step 4:case 'e'
+step 5:case 'i' 
+step 6:case 'o'
+step 7:case 'u'
+step 8:case 'A'
+step 9:case 'E'
+step 10:case 'I'
+step 11:case 'O'
+step 12:case 'U'
+step 8:check the character 
+       display("ch is vowel") 
+step 9:if the character is not a vowel
+step 10:break the statement
+step 11:by Defaultly
+step 12:display("ch is a consonent")
+
+stop 

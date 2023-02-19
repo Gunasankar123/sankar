@@ -1,0 +1,10 @@
+Begin
+
+step 1:consider any character ch say
+step 2:if(ch>=a && ch<=z)
+step 3:display("lower case")
+step 4:elif(ch>=A && Ch<=Z)
+step 5:display("upper case")
+
+stop
+

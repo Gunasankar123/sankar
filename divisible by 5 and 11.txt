@@ -1,0 +1,9 @@
+Begin
+
+step 1:consider a number a say
+step 2:if a%5 and  a%11==0
+step 3:display("a is multiple of 5 and 11")
+step 6:else
+step 7:display(" not a multiple of both")
+
+Stop

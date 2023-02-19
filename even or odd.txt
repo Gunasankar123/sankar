@@ -1,0 +1,9 @@
+Begin
+
+step 1:consider a number a say
+step 2:if a%2=0
+step 3:display("it is a even number")
+step 4:else 
+step 5:display("it is a oddnumber")
+
+stop

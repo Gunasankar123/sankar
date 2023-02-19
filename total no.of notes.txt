@@ -1,0 +1,16 @@
+begin
+step1:declare rs={1000,500,200,100,10,5,2,1}
+step2:read amount
+step3:declare notes=0,count=0
+step4:for(int i=0;i<9;i++)
+{
+count=amount/rs[i];
+if(count!=0)
+{
+display(rs[i]+count+rs[i]*count);
+}
+totalnotes=taotalnotes+count;
+amount=amount%rs[i];
+}
+step5:display notes
+stop

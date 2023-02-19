@@ -1,0 +1,14 @@
+Begin
+
+
+step 1:consider a number k say
+step 2:if k<0
+step 3:display(a is negative)
+step 4:elif k>0
+step 5:display(a is positive)
+step 6:else
+step 7:display(a=0)
+
+
+stop
+

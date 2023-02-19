@@ -1,0 +1,11 @@
+begin
+step1:read no of units
+step2:if (units<50)
+step3:display (bills to pay= 0.5*50)+(0.2*bills to pay)
+step4:else if (units<150)
+step5:display bills to pay=50*0.5+(units-50)*0.75+(0.2*bills to pay)
+step6:else if (units<250)
+step7:display bills to pay=150*0.75+(units-150)*1.20+(0.2*bills to pay)
+step8:else if (units>250)
+step9:display bills to pay=250*1.20+(units-250)*1.50+(0.2*bills to pay)
+stop
