@@ -1,0 +1,19 @@
+begin
+step1:read salary
+step2:if(bs<=10000)
+		{			
+			hra = bs*0.2f;
+			da = bs*0.8f;
+		}
+step3:else if(bs<=20000)
+		{
+			hra = bs*0.25f;
+			da = bs*0.9f;
+		}
+step4:else
+		{
+			hra = bs*0.3f;
+			da = bs*0.95f;
+              }
+step5: display(gross salary=(bs+hra+da))
+stop
