@@ -1,0 +1,12 @@
+Begin 
+
+step 1:read 3 numbers x,y,z say;
+step 2:if x>y and z
+step 3:display x is maximum
+step 4:elif y>z
+step 5:display y is maximum
+step 6:else
+step 7:disply z is maxium
+
+Stop
+ 
