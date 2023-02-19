@@ -1,0 +1,22 @@
+Begin 
+
+step 1:consider a week number N say
+step 2:if(N=1)
+step 3:display("monday")
+step 4:elif(N=2)
+step 5:display("tuesday")
+step 5:elif(N=3)
+step 5:display("wednesday")
+step 5:elif(N=4)
+step 5:display("thursday")
+step 5:elif(N=5)
+step 5:display("friday")
+step 5:elif(N=6)
+step 5:display("saturday")
+step 5:elif(N=7)
+step 5:display("sunday")
+step 5:else
+step 5:display("out of range")
+
+Stop
+
