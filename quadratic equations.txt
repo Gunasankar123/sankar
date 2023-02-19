@@ -1,0 +1,21 @@
+Begin 
+
+step 1:consider a weekname ch say
+step 2:if(ch="monday")
+step 3:display(1)
+step 4:elif(ch="Tuesday")
+step 5:display(2)
+step 5:elif(ch="wednesday")
+step 5:display(3)
+step 5:elif(ch="thursday")
+step 5:display(4)
+step 5:elif(ch="friday")
+step 5:display(5)
+step 5:elif(ch="saturday")
+step 5:display(6)
+step 5:elif(ch="sunday")
+step 5:display(7)
+step 5:else
+step 5:display("out of range")
+
+Stop
