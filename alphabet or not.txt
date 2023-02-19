@@ -1,0 +1,9 @@
+Begin
+
+step 1:consider any character c say
+step 2:if(c<=z and c>=a or c<=Z and c>=A)
+step 3:display(character)
+step 4:else
+step 5:display(not a character)
+
+stop
