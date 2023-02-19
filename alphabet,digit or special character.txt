@@ -1,0 +1,11 @@
+Begin
+
+step 1:take a character ch say
+step 2:if(ch>=a && ch<=z or ch>=A && ch<=Z)
+step 3:display("character")
+step 4:elif(ch>='0' && ch<='9')
+step 5:display('digit')
+step 6:else
+step 7:display('special character')
+
+stop
